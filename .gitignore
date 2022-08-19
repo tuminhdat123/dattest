@@ -43,5 +43,5 @@
 /var/package/*
 !/var/package/*.xml
 
-/datlog
+/datlog/*
 !/datlog/yes.txt
