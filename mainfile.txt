@@ -4,3 +4,5 @@ evening 1
 evening 2
 add from web
 add from web v2
+add from EC2
+
